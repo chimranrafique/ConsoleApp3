@@ -1,0 +1,22 @@
+.gitattributes
+  h_029b4212e691c1 64-65
+.github/skills/agentic-workflows/SKILL.md
+  h_029b4212e691c1 1-159
+.github/workflows/daily-repo-status.lock.yml
+  h_029b4212e691c1 1-2303
+.github/workflows/daily-repo-status.md
+  h_029b4212e691c1 1-60
+.vscode/settings.json
+  h_029b4212e691c1 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ef7b6f307775b5cdd782b8d02866ea6516a1d74d",
+  "prompts": {},
+  "humans": {
+    "h_029b4212e691c1": {
+      "author": "Imran Rafique <irafique@calrom.com>"
+    }
+  }
+}
