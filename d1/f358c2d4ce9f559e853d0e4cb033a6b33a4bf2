@@ -1,0 +1,21 @@
+.github/workflows/aw-smoke-test.md
+  s_713fcd242ba659::t_7770b0302c22bd 1-16
+.github/workflows/aw-smoke-test.lock.yml
+  s_713fcd242ba659::t_f720785043d38b 1-1656
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d1f358c2d4ce9f559e853d0e4cb033a6b33a4bf2",
+  "prompts": {},
+  "sessions": {
+    "s_713fcd242ba659": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "466f4115-3e65-48a1-b1b5-255416bce1ad",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Imran Rafique <irafique@calrom.com>"
+    }
+  }
+}
